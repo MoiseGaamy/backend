@@ -1,0 +1,13 @@
+{
+  "name": "firstBackend",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
